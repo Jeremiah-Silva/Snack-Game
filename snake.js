@@ -1,20 +1,20 @@
-// ideas
-// user dies when running into self
-// user scores 100pts after each meal
-// user scores -5pts after each keypress
-// food moves to a new location after meal
-// all food moves to new locations after meal
-// bad food shrinks snake && -50 ponts
-// once snake eats first meal, if score goes negative, they lose
-// meal worth bonus points if it's touching an edge ("touching")
-// add hole in canvas to make game harder (level 2?)
-// self leaderboard for each game
-// sound effects
-// increase or decrease food in each level
-// meals move after too many turns
-// save rankings history to local storage and relaod each time page refreshes
-// add more levels (figure out math to make level incrimenting dynamic, maybe only change variables when certain levels are acheived)
-// add enemies (enemies could move each frame or each keystorke)
+// Ideas
+// User dies when running into self
+// User scores 100pts after each meal
+// User scores -5pts after each keypress
+// Food moves to a new location after meal
+// All food moves to new locations after meal
+// Bad food shrinks snake && -50 ponts
+// Once snake eats first meal, if score goes negative, they lose
+// Meal worth bonus points if it's touching an edge ("touching")
+// Add hole in canvas to make game harder (level 2?)
+// Self leaderboard for each game
+// Sound effects
+// Increase or decrease food in each level
+// Meals move after too many turns
+// Save rankings history to local storage and relaod each time page refreshes
+// Add more levels (figure out math to make level incrimenting dynamic, maybe only change variables when certain levels are acheived)
+// Add enemies (enemies could move each frame or each keystorke)
 
 let arrow = ""
 let snakeCanvasHeight = 300 // px
