@@ -48,7 +48,6 @@ let level = 1
 //let div =""
 let keyPressed =0
 
-
 let scoreKeeper = (event) => {
 	switch(event) {
 		case "arrow":
@@ -83,7 +82,6 @@ let scoreKeeper = (event) => {
 	}
 	// if ( something to make snake go faster)
 }
-
 
 let randomCoordinate = () => {
 		let cordX = Math.floor(Math.random()*snakeCanvasWidth/10 + 1)*snakeI
@@ -335,11 +333,8 @@ function enemyRefresh(){
 	}, enemyInterval)
 }
 
-
 let reloadPage = () => {
 	window.location.reload();
 }
-
-
 
 timeOut();
