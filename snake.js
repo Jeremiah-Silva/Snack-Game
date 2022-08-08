@@ -343,7 +343,3 @@ let reloadPage = () => {
 
 
 timeOut();
-
-
-
-
