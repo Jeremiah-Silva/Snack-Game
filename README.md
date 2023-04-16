@@ -1,6 +1,6 @@
 # Snack-Game
 # # <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" target="_blank"><a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" target="_blank"></a><a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" target="_blank"></a></a><br></br>
-![snakGame](https://user-images.githubusercontent.com/108309798/232275573-600a505b-01e5-428b-8d2c-22657c0c8495.png)
+![snakGame](https://user-images.githubusercontent.com/108309798/232275573-600a505b-01e5-428b-8d2c-22657c0c8495.png) #
 
 In this project, the snack game was developed using HTML, CSS, and JavaScript. JavaScript was used to add interactivity to the game, allowing the character to move around the board and collect snacks. It was also used to implement the game's logic, such as keeping track of the player's score and detecting collisions with obstacles. HTML was used to structure the game's user interface, defining the game board and placing elements such as the character, snacks, and obstacles. CSS was used to style the game board and its elements, creating a visually appealing and engaging user interface.
 
